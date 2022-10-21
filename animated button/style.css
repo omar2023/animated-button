@@ -1,0 +1,22 @@
+div{
+    width:1px;
+    background-color:red;
+    padding:20px;
+    color:white;
+    font-size:30px;
+    text-align:center;
+    text-transform:capitalize;
+    border-radius:40px;
+    transition-duration:1s;
+    margin:50%;
+    letter-spacing:20px
+  }
+  div:hover{
+    width:130px;
+    box-shadow:10px 10px 60px gray;
+  }
+  span{
+    position:relative;
+    right:10px;
+  }
+  
